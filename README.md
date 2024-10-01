@@ -1,3 +1,3 @@
 # Mitigating the Language Mismatch and Repetition Issues in LLM-based
-Machine Translation via Model Editing
-Mitigating errors and improving translation quality in LLM-based Machine Translation via Model Editing
+This repo is for Mitigating the Language Mismatch and Repetition Issues in LLM-based
+Machine Translation via Model Editing (EMNLP 24). Concrete code will be here soon.
