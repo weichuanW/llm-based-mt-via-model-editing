@@ -63,7 +63,8 @@ def load_model_tokenizer_config(model_name: str, device='cuda', cache_dir=None, 
                         }
     else:
         raise NotImplementedError("Still working to get this model available!")
-
+    set_seed(42)
+    
     return model, tokenizer, MODEL_CONFIG
 
 
