@@ -1,4 +1,4 @@
-# Seek What Happens on LLM-based Machine Translation
+# Mitigating the Language Mismatch and Repetition Issues in LLM-based Machine Translation via Model Editing
 
 ## Brief Instruction
 Here is a brief instruction for the implementation of the paper [Mitigating the Language Mismatch and Repetition Issues in LLM-based Machine Translation via Model Editing](https://arxiv.org/pdf/2410.07054). We will update more details soon.
