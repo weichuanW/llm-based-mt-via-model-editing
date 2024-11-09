@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Mitigating the Language Mismatch and Repetition Issues in
+  LLM-based Machine Translation via Model Editing
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Weichuan
+    family-names: Wang
+    email: weicwang2-c@my.cityu.edu.hk
+    name-particle: Weichuan
+    affiliation: City University of Hong Kong
+    orcid: 'https://orcid.org/0000-0001-5714-488X'
+identifiers:
+  - type: url
+    value: 'https://arxiv.org/pdf/2410.07054'
+repository-code: >-
+  https://github.com/weichuanW/llm-based-mt-via-model-editing
